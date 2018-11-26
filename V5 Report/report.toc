@@ -1,0 +1,9 @@
+\contentsline {section}{1. \hskip 1em\relax Problem Description}{ii}
+\contentsline {section}{2. \hskip 1em\relax Assumptions}{ii}
+\contentsline {section}{3. \hskip 1em\relax Solution implementation}{ii}
+\contentsline {section}{4. \hskip 1em\relax Code Listings}{iii}
+\contentsline {subsection}{4.1 \hskip 1em\relax ringManager.java}{iii}
+\contentsline {subsection}{4.2 \hskip 1em\relax ringMemberImpl.java}{vi}
+\contentsline {subsection}{4.3 \hskip 1em\relax ringMember.java}{viii}
+\contentsline {subsection}{4.4 \hskip 1em\relax criticalSection.java}{ix}
+\contentsline {subsection}{4.1 \hskip 1em\relax TokenObject.java}{xii}
