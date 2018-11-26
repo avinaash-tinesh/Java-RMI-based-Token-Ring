@@ -1,22 +1,21 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.10.12)  26 NOV 2018 17:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.10.12)  26 NOV 2018 22:40
 entering extended mode
 **./report.tex
 (report.tex
 LaTeX2e <2018-04-01> patch level 5
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
-Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
 File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count80
-\c@chapter=\count81
-\c@section=\count82
-\c@subsection=\count83
-\c@subsubsection=\count84
-\c@paragraph=\count85
-\c@subparagraph=\count86
-\c@figure=\count87
-\c@table=\count88
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
@@ -43,9 +42,9 @@ Package ifvtex Info: VTeX not detected.
 ("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count89
-\Gm@cntv=\count90
-\c@Gm@tempcnt=\count91
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
 \Gm@bindingoffset=\dimen103
 \Gm@wd@mp=\dimen104
 \Gm@odd@mp=\dimen105
@@ -107,13 +106,13 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count92
+\inf@bad=\count91
 LaTeX Info: Redefining \frac on input line 213.
-\uproot@=\count93
-\leftroot@=\count94
+\uproot@=\count92
+\leftroot@=\count93
 LaTeX Info: Redefining \overline on input line 375.
-\classnum@=\count95
-\DOTSCASE@=\count96
+\classnum@=\count94
+\DOTSCASE@=\count95
 LaTeX Info: Redefining \ldots on input line 472.
 LaTeX Info: Redefining \dots on input line 475.
 LaTeX Info: Redefining \cdots on input line 596.
@@ -122,15 +121,15 @@ LaTeX Info: Redefining \cdots on input line 596.
 \big@size=\dimen115
 LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
-\macc@depth=\count97
-\c@MaxMatrixCols=\count98
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
 \dotsspace@=\muskip10
-\c@parentequation=\count99
-\dspbrk@lvl=\count100
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
 \tag@help=\toks19
-\row@=\count101
-\column@=\count102
-\maxfields@=\count103
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
 \andhelp@=\toks20
 \eqnshift@=\dimen116
 \alignsep@=\dimen117
@@ -165,30 +164,30 @@ Package caption3 Info: TeX engine: e-TeX on input line 64.
 \caption@parindent=\dimen127
 \caption@hangindent=\dimen128
 )
-\c@caption@flags=\count104
-\c@ContinuedFloat=\count105
+\c@caption@flags=\count103
+\c@ContinuedFloat=\count104
 )
-\c@subfigure=\count106
-\c@subtable=\count107
+\c@subfigure=\count105
+\c@subtable=\count106
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
-\lst@mode=\count108
+\lst@mode=\count107
 \lst@gtempboxa=\box28
 \lst@token=\toks23
-\lst@length=\count109
+\lst@length=\count108
 \lst@currlwidth=\dimen129
-\lst@column=\count110
-\lst@pos=\count111
+\lst@column=\count109
+\lst@pos=\count110
 \lst@lostspace=\dimen130
 \lst@width=\dimen131
-\lst@newlines=\count112
-\lst@lineno=\count113
+\lst@newlines=\count111
+\lst@lineno=\count112
 \lst@maxwidth=\dimen132
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
 File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
-\c@lstnumber=\count114
-\lst@skipnumbers=\count115
+\c@lstnumber=\count113
+\lst@skipnumbers=\count114
 \lst@framebox=\box29
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
@@ -259,16 +258,16 @@ File: t1bch.fd 2004/10/18 font definitions for T1/bch.
 
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count116
+\scratchcounter=\count115
 \scratchdimen=\dimen133
 \scratchbox=\box30
-\nofMPsegments=\count117
-\nofMParguments=\count118
+\nofMPsegments=\count116
+\nofMParguments=\count117
 \everyMPshowfont=\toks24
-\MPscratchCnt=\count119
+\MPscratchCnt=\count118
 \MPscratchDim=\dimen134
-\MPnumerator=\count120
-\makeMPintoPDFobject=\count121
+\MPnumerator=\count119
+\makeMPintoPDFobject=\count120
 \everyMPtoPDFconversion=\toks25
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -321,44 +320,96 @@ G,.JBIG2,.JB2,.eps]
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count122
+\c@lstlisting=\count121
  [1
 
+
 {C:/Users/Rogue One/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (report
-.toc)
+.toc
+Overfull \hbox (3.14261pt too wide) detected at line 21
+ []\T1/bch/m/n/10.95 xviii
+ []
+
+)
 \tf@toc=\write3
 \openout3 = `report.toc'.
 
+ [2] [3]
+<Assets/class_diagram.png, id=13, 1837.86626pt x 1292.83pt>
+File: Assets/class_diagram.png Graphic file (type png)
+<use Assets/class_diagram.png>
+Package pdftex.def Info: Assets/class_diagram.png  used on input line 60.
+(pdftex.def)             Requested size: 477.83395pt x 336.12787pt.
 
-[1
+Overfull \hbox (53.77362pt too wide) in paragraph at lines 60--61
+ [][] 
+ []
 
+LaTeX Font Info:    Try loading font information for OMS+bch on input line 70.
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsbch.fd"
+File: omsbch.fd 
+)
+LaTeX Font Info:    Font shape `OMS/bch/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 70.
+ [4 <./Assets/class_diagram.png (PNG copy)>]
+<Assets/ring_manager.png, id=19, 1156.32pt x 620.3175pt>
+File: Assets/ring_manager.png Graphic file (type png)
+<use Assets/ring_manager.png>
+Package pdftex.def Info: Assets/ring_manager.png  used on input line 83.
+(pdftex.def)             Requested size: 404.71806pt x 217.11438pt.
 
-] [2] ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+Underfull \hbox (badness 10000) in paragraph at lines 79--86
+
+ []
+
+[5 <./Assets/ring_manager.png>]
+<Assets/ring_memberimpl_example.png, id=25, 1156.32pt x 622.7265pt>
+File: Assets/ring_memberimpl_example.png Graphic file (type png)
+<use Assets/ring_memberimpl_example.png>
+Package pdftex.def Info: Assets/ring_memberimpl_example.png  used on input line
+ 99.
+(pdftex.def)             Requested size: 404.71806pt x 217.95753pt.
+ [6 <./Assets/ring_memberimpl_example.png>]
+<Assets/full_run.png, id=30, 1156.32pt x 621.522pt>
+File: Assets/full_run.png Graphic file (type png)
+<use Assets/full_run.png>
+Package pdftex.def Info: Assets/full_run.png  used on input line 118.
+(pdftex.def)             Requested size: 462.5198pt x 248.6044pt.
+
+Overfull \hbox (38.45947pt too wide) in paragraph at lines 118--119
+ [][] 
+ []
+
+[7 <./Assets/full_run.png>] [8]
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
 File: lstlang1.sty 2018/09/02 1.7 listings language file
 )
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 76.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 168.
+
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 ) (ringManager.java
-[3]) [4] [5] (ringMemberImpl.java [6]) [7] (ringMember.java) [8]
-(criticalSection.java [9] [10]) [11] (TokenObject.java [12] [13] [14]) [15]
-(report.aux) ) 
+[9] [10]) [11] (ringMemberImpl.java [12]) [13] (ringMember.java) [14]
+(criticalSection.java [15] [16]) [17] (TokenObject.java [18] [19] [20])
+[21] (report.aux) ) 
 Here is how much of TeX's memory you used:
- 5877 strings out of 492972
- 84164 string characters out of 3135868
- 485544 words of memory out of 3000000
- 9652 multiletter control sequences out of 15000+200000
- 34936 words of font info for 49 fonts, out of 3000000 for 9000
+ 5908 strings out of 492972
+ 84944 string characters out of 3135868
+ 487382 words of memory out of 3000000
+ 9670 multiletter control sequences out of 15000+200000
+ 39405 words of font info for 52 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,6n,43p,718b,1712s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Rogue One\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jkn
-appen\ec\dpi600\ectt1000.pk>{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8
-r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/
-Program Files/MiKTeX 2.9/fonts/type1/bitstrea/charter/bchr8a.pfb>
-Output written on report.pdf (16 pages, 87590 bytes).
+ 42i,8n,43p,775b,1712s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Rogue One\AppData\Local\MiKTeX\2.9\fonts\pk\ljfou
+r\jknappen\ec\dpi600\ectt1000.pk>{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/b
+ase/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/bitstrea/charter/bchb8a.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/bitstrea/charter/bchri8a.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on report.pdf (21 pages, 322362 bytes).
 PDF statistics:
- 145 PDF objects out of 1000 (max. 8388607)
+ 177 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

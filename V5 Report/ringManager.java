@@ -12,7 +12,7 @@ public class ringManager {
 	
 	/**
 	 * Constructor for ringManager
-	 * @param ring_node_address		start node address
+	 * @param ring_node_address		start node host address
 	 * @param ring_node_id			start node id
 	 */
 	public ringManager(String ring_node_address, String ring_node_id) {
@@ -46,8 +46,8 @@ public class ringManager {
 			System.out.println("Ring manager host is: " + ring_manager_hostname);
 			System.out.println("Ring element host is: " + ring_node);
 		} catch (UnknownHostException e) {
-			// TODO Auto-generated catch block
-			System.out.println("Something went wrong, unknown host: " + e);
+			System.out.println("Cannot resolve host: ");
+			e.printStackTrace();
 		}
 		
 		System.out.println("Clearing record.txt file...");
@@ -59,8 +59,8 @@ public class ringManager {
 			System.out.println("Connecting to Node");
 			ring_member.takeToken(token);
 		} catch (MalformedURLException | RemoteException | NotBoundException e) {
-			// TODO Auto-generated catch block
-			System.out.println("Error Message: " + e);
+			System.out.println("An RMI related error has been thrown: ");
+			e.printStackTrace();
 		}
 			
 	}

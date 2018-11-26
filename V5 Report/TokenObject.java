@@ -7,7 +7,6 @@ import java.io.Serializable;
  *  also serves as an object that stores and passes on variables such as, 
  *  filename, time to live, node for extra sleep and its host, initial node and its host
  *  and node to skip and its host to each node
- *  eliminating the need to store each of these variables locally in the ringMemberImpl class
  *  
  */
 public class TokenObject implements Serializable {
@@ -28,9 +27,13 @@ public class TokenObject implements Serializable {
 	/**
 	 * Constructor for TokenObject
 	 * @param node				node id for sleep modification
-	 * @param time_to_live		max number of passes for token in network 
+	 * @param node_host        node host for sleep modification
+	 * @param time_to_live		max number of passes for token in network
 	 * @param file_name			filename.extension of shared file
-	 * @param token_exit		boolean dictating if the node is to be shutdown
+	 * @param init_node        initial node id
+	 * @param init_node_host   initial node host
+	 * @param skip_node			node id for node to skip
+	 * @param skip_node_host	node host for node to skip
 	 */
 	public TokenObject(String node, String node_host, int time_to_live, String file_name, String init_node, String init_node_host, String skip_node, String skip_node_host) {
 		this.node_to_modify = node;

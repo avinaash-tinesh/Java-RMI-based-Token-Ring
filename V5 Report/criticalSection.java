@@ -60,8 +60,6 @@ public class criticalSection extends Thread {
 			// incrementing,
 			// else continue as normal
 			if(token.getCycles() % 2 == 0 && (token.getSkipNode().equals(this_node) && token.getSkipNodeHost().equals(this_node_address))) {
-				// get remote reference to next ring element, and pass token on
-				// ...
 				System.out.println("Token on cycle: " + token.getCycles() + "\n");
 			} else {
 				// increment counter in TokenObject
