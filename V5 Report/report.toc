@@ -1,21 +1,21 @@
 \contentsline {section}{\numberline {1}Problem Description}{iii}
-\contentsline {section}{\numberline {2}Assumptions}{iii}
-\contentsline {section}{\numberline {3}Solution implementation}{iv}
-\contentsline {subsection}{\numberline {3.1}ringManager}{iv}
-\contentsline {subsection}{\numberline {3.2}ringMemberImpl}{v}
-\contentsline {subsection}{\numberline {3.3}ringMember}{vi}
-\contentsline {subsection}{\numberline {3.4}criticalSection}{vi}
-\contentsline {subsection}{\numberline {3.5}TokenObject}{vi}
-\contentsline {subsection}{\numberline {3.6}Full run of program}{vii}
-\contentsline {section}{\numberline {4}Advanced Implementation}{vii}
-\contentsline {subsection}{\numberline {4.1}Injecting an actual token Object which keeps a counter of how many objects it has been passed to}{vii}
-\contentsline {subsection}{\numberline {4.2}Allow user to input file name for shared file}{vii}
-\contentsline {subsection}{\numberline {4.3}Specify number of passes a token can take in the network}{viii}
-\contentsline {subsection}{\numberline {4.4}Direct the n\textsuperscript {th} node to get extra sleep}{viii}
-\contentsline {subsection}{\numberline {4.5}Directing the m\textsuperscript {th} node to be skipped every second visit of the token}{viii}
-\contentsline {section}{\numberline {A}Code Listings}{ix}
-\contentsline {subsection}{\numberline {A.1}ringManager.java}{ix}
-\contentsline {subsection}{\numberline {A.2}ringMemberImpl.java}{xii}
-\contentsline {subsection}{\numberline {A.3}ringMember.java}{xiv}
-\contentsline {subsection}{\numberline {A.4}criticalSection.java}{xv}
-\contentsline {subsection}{\numberline {A.5}TokenObject.java}{xviii}
+\contentsline {section}{\numberline {2}Assumptions}{iv}
+\contentsline {section}{\numberline {3}Solution implementation}{v}
+\contentsline {subsection}{\numberline {3.1}ringManager}{v}
+\contentsline {subsection}{\numberline {3.2}ringMemberImpl}{vi}
+\contentsline {subsection}{\numberline {3.3}ringMember}{vii}
+\contentsline {subsection}{\numberline {3.4}criticalSection}{vii}
+\contentsline {subsection}{\numberline {3.5}TokenObject}{vii}
+\contentsline {subsection}{\numberline {3.6}Full run of program}{viii}
+\contentsline {section}{\numberline {4}Advanced Implementation}{ix}
+\contentsline {subsection}{\numberline {4.1}Injecting an actual token Object which keeps a counter of how many objects it has been passed to}{ix}
+\contentsline {subsection}{\numberline {4.2}Allow user to input file name for shared file}{ix}
+\contentsline {subsection}{\numberline {4.3}Specify number of passes a token can take in the network}{ix}
+\contentsline {subsection}{\numberline {4.4}Direct the n\textsuperscript {th} node to get extra sleep}{ix}
+\contentsline {subsection}{\numberline {4.5}Directing the m\textsuperscript {th} node to be skipped every second visit of the token}{ix}
+\contentsline {section}{\numberline {A}Code Listings}{x}
+\contentsline {subsection}{\numberline {A.1}ringManager.java}{x}
+\contentsline {subsection}{\numberline {A.2}ringMemberImpl.java}{xiii}
+\contentsline {subsection}{\numberline {A.3}ringMember.java}{xv}
+\contentsline {subsection}{\numberline {A.4}criticalSection.java}{xvi}
+\contentsline {subsection}{\numberline {A.5}TokenObject.java}{xix}

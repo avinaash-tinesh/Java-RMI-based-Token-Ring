@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.10.12)  26 NOV 2018 22:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.10.12)  27 NOV 2018 10:37
 entering extended mode
 **./report.tex
 (report.tex
@@ -325,79 +325,81 @@ Package caption Info: End \AtBeginDocument code.
 
 
 {C:/Users/Rogue One/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (report
-.toc
-Overfull \hbox (3.14261pt too wide) detected at line 21
- []\T1/bch/m/n/10.95 xviii
- []
-
-)
+.toc)
 \tf@toc=\write3
 \openout3 = `report.toc'.
 
- [2] [3]
-<Assets/class_diagram.png, id=13, 1837.86626pt x 1292.83pt>
+
+[2]
+<Assets/ring_net.png, id=10, 1709.38625pt x 1242.6425pt>
+File: Assets/ring_net.png Graphic file (type png)
+<use Assets/ring_net.png>
+Package pdftex.def Info: Assets/ring_net.png  used on input line 38.
+(pdftex.def)             Requested size: 341.8712pt x 248.5241pt.
+ [3 <./Assets/ring_net.png>] [4]
+<Assets/class_diagram.png, id=19, 1837.86626pt x 1292.83pt>
 File: Assets/class_diagram.png Graphic file (type png)
 <use Assets/class_diagram.png>
-Package pdftex.def Info: Assets/class_diagram.png  used on input line 60.
+Package pdftex.def Info: Assets/class_diagram.png  used on input line 64.
 (pdftex.def)             Requested size: 477.83395pt x 336.12787pt.
 
-Overfull \hbox (53.77362pt too wide) in paragraph at lines 60--61
+Overfull \hbox (53.77362pt too wide) in paragraph at lines 64--65
  [][] 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+bch on input line 70.
+LaTeX Font Info:    Try loading font information for OMS+bch on input line 74.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsbch.fd"
 File: omsbch.fd 
 )
 LaTeX Font Info:    Font shape `OMS/bch/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 70.
- [4 <./Assets/class_diagram.png (PNG copy)>]
-<Assets/ring_manager.png, id=19, 1156.32pt x 620.3175pt>
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 74.
+ [5 <./Assets/class_diagram.png (PNG copy)>]
+<Assets/ring_manager.png, id=25, 1156.32pt x 620.3175pt>
 File: Assets/ring_manager.png Graphic file (type png)
 <use Assets/ring_manager.png>
-Package pdftex.def Info: Assets/ring_manager.png  used on input line 83.
+Package pdftex.def Info: Assets/ring_manager.png  used on input line 87.
 (pdftex.def)             Requested size: 404.71806pt x 217.11438pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--86
+Underfull \hbox (badness 10000) in paragraph at lines 83--90
 
  []
 
-[5 <./Assets/ring_manager.png>]
-<Assets/ring_memberimpl_example.png, id=25, 1156.32pt x 622.7265pt>
+[6 <./Assets/ring_manager.png>]
+<Assets/ring_memberimpl_example.png, id=30, 1156.32pt x 622.7265pt>
 File: Assets/ring_memberimpl_example.png Graphic file (type png)
 <use Assets/ring_memberimpl_example.png>
 Package pdftex.def Info: Assets/ring_memberimpl_example.png  used on input line
- 99.
+ 103.
 (pdftex.def)             Requested size: 404.71806pt x 217.95753pt.
- [6 <./Assets/ring_memberimpl_example.png>]
-<Assets/full_run.png, id=30, 1156.32pt x 621.522pt>
+ [7 <./Assets/ring_memberimpl_example.png>]
+<Assets/full_run.png, id=36, 1156.32pt x 621.522pt>
 File: Assets/full_run.png Graphic file (type png)
 <use Assets/full_run.png>
-Package pdftex.def Info: Assets/full_run.png  used on input line 118.
+Package pdftex.def Info: Assets/full_run.png  used on input line 122.
 (pdftex.def)             Requested size: 462.5198pt x 248.6044pt.
 
-Overfull \hbox (38.45947pt too wide) in paragraph at lines 118--119
+Overfull \hbox (38.45947pt too wide) in paragraph at lines 122--123
  [][] 
  []
 
-[7 <./Assets/full_run.png>] [8]
+[8 <./Assets/full_run.png>] [9]
 ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
 File: lstlang1.sty 2018/09/02 1.7 listings language file
 )
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 168.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 174.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 ) (ringManager.java
-[9] [10]) [11] (ringMemberImpl.java [12]) [13] (ringMember.java) [14]
-(criticalSection.java [15] [16]) [17] (TokenObject.java [18] [19] [20])
-[21] (report.aux) ) 
+[10] [11]) [12] (ringMemberImpl.java [13]) [14] (ringMember.java) [15]
+(criticalSection.java [16] [17]) [18] (TokenObject.java [19] [20] [21])
+[22] (report.aux) ) 
 Here is how much of TeX's memory you used:
- 5908 strings out of 492972
- 84944 string characters out of 3135868
- 487382 words of memory out of 3000000
- 9670 multiletter control sequences out of 15000+200000
+ 5913 strings out of 492972
+ 85051 string characters out of 3135868
+ 487439 words of memory out of 3000000
+ 9674 multiletter control sequences out of 15000+200000
  39405 words of font info for 52 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,8n,43p,775b,1712s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -407,9 +409,9 @@ ase/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/bitstrea/charter/bchb8a.pfb
 ><C:/Program Files/MiKTeX 2.9/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Progr
 am Files/MiKTeX 2.9/fonts/type1/bitstrea/charter/bchri8a.pfb><C:/Program Files/
 MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on report.pdf (21 pages, 322362 bytes).
+Output written on report.pdf (22 pages, 379324 bytes).
 PDF statistics:
- 177 PDF objects out of 1000 (max. 8388607)
+ 182 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

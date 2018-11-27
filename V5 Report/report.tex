@@ -33,9 +33,13 @@ This report will detail the implementation of a token passing ring node network 
 
 The general description of the task is as such, we have a ringManager class that acts as a client which initializes a connection with the first node in the network and passes a token to that node. From there the ringMemberImpl class that acts as a server node in the network with the task of receiving the token it is passed, recording that transaction onto a file and releasing the token on to the next node in the network. Each node in the network is to record their transactions onto the same file each time, this is allowed since RMI makes blocking calls to each node.  This is done until some stopping condition is provided. Below is a diagram that outlines the network architecture for this task:
 
-\begin{center}
-todo
-\end{center} 
+\begin{figure}[!h]
+\centering
+\includegraphics[scale=0.2]{ring_net}
+\caption{Architecture of this ring network}
+\end{figure} 
+
+\newpage
 
 \section{Assumptions}
 
@@ -118,6 +122,8 @@ The TokenObject class serves as the class that instantiates the token Object. Th
 \includegraphics[scale=0.4]{full_run}
 \caption{Example of a full run of the program on Command Prompt}
 \end{figure}
+
+\newpage
 
 \section{Advanced Implementation}
 This section will detail the advanced implementations as implemented in this project.
